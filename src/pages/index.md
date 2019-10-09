@@ -5,8 +5,8 @@ sections:
   template: section_hero
   section_id: hero
   title: SuccessFund is great. You should get on board!
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: SuccessFund lets you raise money without paying outrageous fees and best
+    of all, it's district-approved!
   image: images/hero.png
   actions:
   - label: Learn More
