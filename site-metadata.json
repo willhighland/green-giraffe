@@ -2,8 +2,8 @@
   "title": "SuccessFund",
   "palette": "green",
   "header": {
-    "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "title": "SuccessFund",
+    "logo_img": "/images/logo.svg",
     "has_nav": true,
     "menu": {
       "actions": [
